@@ -6,5 +6,8 @@ public class ApfelZweig {
 	//Marc du geiler Hund
 	//Test
 	//Salat
+
+	int Zahl1 = 50;
+	String Person1 = "Marc Wuest";
 }
  }
