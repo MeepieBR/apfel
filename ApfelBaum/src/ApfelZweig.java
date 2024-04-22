@@ -1,13 +1,23 @@
 
-public class ApfelZweig {
+import java.util.Scanner;
+	
+	public class ApfelZweig {
 
-		  public static void main( String[] args ) {
-		    System.out.println("Hallo, Welt!");
-	//Marc du geiler Hund
-	//Test
-	//Salat
+	    public static void main(String[] args) {
 
-	int Zahl1 = 50;
-	String Person1 = "Marc Wuest";
-}
- }
+	        String firstName,
+	         lastName;
+
+	         Scanner scanner1 = new Scanner( System.in );
+
+	         System.out.print("Enter your first name: ");
+	         firstName = scanner1.nextLine();
+
+	         System.out.print("Enter your last name: ");
+	         lastName = scanner1.nextLine();
+
+	         System.out.print("Your first name is " + firstName + " and your last name is "+ lastName);
+
+	    }
+
+	}
