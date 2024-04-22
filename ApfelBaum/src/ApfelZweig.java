@@ -17,6 +17,8 @@ import java.util.Scanner;
 	         lastName = scanner1.nextLine();
 
 	         System.out.print("Your first name is " + firstName + " and your last name is "+ lastName);
+	         
+	         System.out.print(" Vielen dank. Ihr name ist Scheisse ");
 
 	    }
 
