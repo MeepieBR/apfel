@@ -1,4 +1,4 @@
-package Papenkort;
+package Bernhard;
 
 public class Main {
 
