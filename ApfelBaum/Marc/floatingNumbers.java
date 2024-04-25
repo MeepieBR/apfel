@@ -16,4 +16,8 @@ public class floatingNumbers {
 	        
 	        
 	    }
+<<<<<<< Updated upstream
 	}
+=======
+	}
+>>>>>>> Stashed changes
