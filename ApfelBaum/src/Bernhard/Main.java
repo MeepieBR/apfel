@@ -2,11 +2,10 @@ package Bernhard;
 
 public class Main {
 
+	public static void main (String[] args) {
+	//Und so ist man Berhard
 	
-	//Test
-	
-	
-	
-	
+	System.out.println ("Bernhard ist HARD");
 	
 }
+ }
