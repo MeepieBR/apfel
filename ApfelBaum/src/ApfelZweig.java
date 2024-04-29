@@ -20,7 +20,7 @@ import java.util.Scanner;
 	         
 	         System.out.print(" Vielen dank. Ihr name ist Scheisse ");
 	         
-	         //du huso
+	        
 
 	    }
 
