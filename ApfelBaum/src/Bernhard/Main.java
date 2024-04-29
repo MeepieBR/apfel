@@ -3,6 +3,9 @@ package Bernhard;
 public class Main {
 
 	
+	
+	
+
 	public static void main(String[] args) {
 		
 		float first = 1.25f, second = 2.25f;
@@ -21,9 +24,7 @@ public class Main {
 	System.out.println("[--After swap--]");
 	System.out.println(first);
 	System.out.println(second);
-	
-	
-	
 	}
-	
+
 }
+ 
